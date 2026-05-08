@@ -1,0 +1,14 @@
+# Clean URLs
+/cities/:slug   /cities/:slug.html   200
+/categories/:slug   /categories/:slug.html   200
+/articles/:slug   /articles/:slug.html   200
+/blog   /blog.html   200
+/about  /about.html  200
+/contact  /contact.html  200
+/destinations  /destinations.html  200
+/student-life  /student-life.html  200
+/privacy-policy  /privacy-policy.html  200
+/terms  /terms.html  200
+/sitemap  /sitemap.html  200
+# 404
+/*  /404.html  404
